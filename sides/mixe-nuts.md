@@ -2,11 +2,11 @@
 
 ## Ingredients
 
-- Ingredient 1
-- Ingredient 2
+- Some nuts
+- Some other nuts
 
 
 ## Instructions
 
-- Step 1
-- Step 2
+- Add some nuts
+- Add some other nuts
